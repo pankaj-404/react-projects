@@ -1,0 +1,92 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+body{
+  background-image: linear-gradient( rgb(53, 56, 55), rgb(152, 158, 157));
+  color: wheat;
+  min-height: 600px;
+}
+
+.App {
+  display: grid;
+  grid-template-columns: 28% 70% 
+}
+
+table{
+  border:solid  2px black;
+  /* margin: 0 0 0 20px; */
+}
+
+thead{ 
+  border: solid 2px black;
+  padding: 10px 20px;
+  background: #22d1ee ;
+  font-size: 25px;
+}
+
+tr{
+  padding: 0;
+  margin: 2px;
+  word-wrap: break-word;
+}
+
+td{
+   padding: 5px 20px;
+   background-color: #303a52;
+  }
+
+button{
+  padding: 8px 16px;
+  background-color: #086972;
+  font-size: 20px;
+  border-radius: 5px;
+  font-weight: bolder;
+  color: wheat;
+  transition: all 0.5s;
+  margin-right: 10px;
+}
+
+button:hover{
+  transform: scale(0.95);
+  opacity: 0.9;
+}
+
+.funcBtn{
+  padding: 0px 20px;
+  margin: 2px;
+  background-color: #086972;
+  font-size: 15px;
+  border-radius: 5px;
+  font-weight: bolder;
+  color: wheat;
+  transition: all 0.5s;
+}
+
+.funcBtn:hover{
+  transform: scale(0.95);
+  opacity: 0.8;
+}
+
+.rightDiv{
+  /* grid-column: span 1/6; */
+  text-align: center;
+  margin: 20px 0px;
+}
+
+.flex{
+  margin: 50px 50px;
+  /* text-align: center; */
+  display: flex;
+  flex-direction: column;
+}
+
+form{
+  /* border: solid 2px black; */
+  padding-top: 20px;
+  font-size: 30px;
+}
+
+.reset{
+  background-color: rgb(189, 63, 41);
+  float: right;
+  margin-right: 30px;
+}

@@ -1,0 +1,387 @@
+[
+    {
+        "name": "ABC",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["North Indian", "Mughlai", "South Indian", "Chinese"],
+        "rating": 3.7,
+        "noOfRatings": "25",
+        "votes": "121",
+        "costForTwo": 150,
+        "minCost": "100",
+        "waitingTime": "30",
+        "payment": {
+            "card": "true",
+            "cash": "false",
+            "upi": "true"
+        }
+    },
+    {
+        "name": "Adnan Biryani",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["Biryani", "Andhra", "North Indian", "Seafood"],
+        "rating": 3.7,
+        "noOfRatings": "25",
+        "votes": "100",
+        "costForTwo": 250,
+        "minCost": "200",
+        "waitingTime": "30",
+        "payment": {
+            "card": "true",
+            "cash": "false",
+            "upi": "true"
+        }
+    },
+    {
+        "name": "Make My Day",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["Biryani", "Andhra", "North Indian","Pizza"],
+        "rating": 4.9,
+        "noOfRatings": "25",
+        "votes": "11",
+        "costForTwo": 1500,
+        "minCost": "1000",
+        "waitingTime": "30",
+        "payment": {
+            "card": "true",
+            "cash": "false",
+            "upi": "false"
+        }
+    },
+    {
+        "name": "Sadda Adda",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["North Indian","Pizza"],
+        "rating": 2.9,
+        "noOfRatings": "25",
+        "votes": "121",
+        "costForTwo": 150,
+        "minCost": "70",
+        "waitingTime": "20",
+        "payment": {
+            "card": "false",
+            "cash": "false",
+            "upi": "true"
+        }
+    },
+    {
+        "name": "Eat And Meet",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["North Indian","Pizza","Chinese"],
+        "rating": 3.7,
+        "noOfRatings": "25",
+        "votes": "121",
+        "costForTwo": 150,
+        "minCost": "100",
+        "waitingTime": "30",
+        "payment": {
+            "card": "true",
+            "cash": "false",
+            "upi": "true"
+        }
+    },
+    {
+        "name": "Grill Daddy ",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["Continental", "American", "Pizza", "Burger", "Cafe", "Sandwich"],
+        "rating": 4.2,
+        "noOfRatings": "25",
+        "votes": "241",
+        "costForTwo": 800,
+        "minCost": "500",
+        "waitingTime": "30",
+        "payment": {
+            "card": "true",
+            "cash": "true",
+            "upi": "true"
+        }
+    },
+    {
+        "name": "Sangam Sweets ",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["Mithai", "Street Food", "Fast Food"],
+        "rating": 4.2,
+        "noOfRatings": "25",
+        "votes": "211",
+        "costForTwo": 350,
+        "minCost": "200",
+        "waitingTime": "30",
+        "payment": {
+            "card": "true",
+            "cash": "true",
+            "upi": "true"
+        }
+    },
+    {
+        "name": "Hyatt Centric",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["Finger Food", "Continental", "Chinese"],
+        "rating": 4.1,
+        "noOfRatings": "25",
+        "votes": "110",
+        "costForTwo": 250,
+        "minCost": "100",
+        "waitingTime": "30",
+        "payment": {
+            "card": "true",
+            "cash": "true",
+            "upi": "true"
+        }
+    },
+    {
+        "name": "Al-Bek ",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["Mughlai", "Kebab", "Biryani", "North Indian"],
+        "rating": 4.5,
+        "noOfRatings": "25",
+        "votes": "1210",
+        "costForTwo": 450,
+        "minCost": "300",
+        "waitingTime": "30",
+        "payment": {
+            "card": "true",
+            "cash": "false",
+            "upi": "true"
+        }
+    },
+    {
+        "name": "Le Arabia ",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["North Indian", "Mughlai", "Chinese", "Kerala", "Biryani", "Beverages", "Desserts"],
+        "rating": 4.3,
+        "noOfRatings": "25",
+        "votes": "1421",
+        "costForTwo": 550,
+        "minCost": "300",
+        "waitingTime": "30",
+        "payment": {
+            "card": "true",
+            "cash": "true",
+            "upi": "true"
+        }
+    },
+    {
+        "name": "Anand Sweets and Savouries ",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["Mithai", "Street Food"],
+        "rating": 3.4,
+        "noOfRatings": "25",
+        "votes": "221",
+        "costForTwo": 250,
+        "minCost": "100",
+        "waitingTime": "30",
+        "payment": {
+            "card": "true",
+            "cash": "false",
+            "upi": "true"
+        }
+    },
+    {
+        "name": "Dindigul Thalappakatti ",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["South Indian", "Biryani", "Chinese", "North Indian"],
+        "rating": 4.3,
+        "noOfRatings": "25",
+        "votes": "171",
+        "costForTwo": 950,
+        "minCost": "600",
+        "waitingTime": "30",
+        "payment": {
+            "card": "true",
+            "cash": "true",
+            "upi": "true"
+        }
+    },
+    {
+        "name": "Dindigul Thalappakatti",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["North Indian", "Mughlai", "South Indian", "Chinese"],
+        "rating": 2.9,
+        "noOfRatings": "25",
+        "votes": "121",
+        "costForTwo": 150,
+        "minCost": "100",
+        "waitingTime": "30",
+        "payment": {
+            "card": "false",
+            "cash": "true",
+            "upi": "false"
+        }
+    },
+    {
+        "name": "Sharief Bhai ",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["Biryani", "Andhra", "North Indian", "Seafood"],
+        "rating": 3.5,
+        "noOfRatings": "25",
+        "votes": "100",
+        "costForTwo": 250,
+        "minCost": "200",
+        "waitingTime": "30",
+        "payment": {
+            "card": "true",
+            "cash": "false",
+            "upi": "false"
+        }
+    },
+    {
+        "name": "Nagarjuna ",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["Biryani", "Andhra", "North Indian","Pizza"],
+        "rating": 1.8,
+        "noOfRatings": "25",
+        "votes": "1",
+        "costForTwo": 500,
+        "minCost": "300",
+        "waitingTime": "30",
+        "payment": {
+            "card": "false",
+            "cash": "true",
+            "upi": "false"
+        }
+    },
+    {
+        "name": "Elite Kerala Mess ",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["North Indian","Pizza"],
+        "rating": 2.9,
+        "noOfRatings": "25",
+        "votes": "121",
+        "costForTwo": 150,
+        "minCost": "70",
+        "waitingTime": "20",
+        "payment": {
+            "card": "false",
+            "cash": "false",
+            "upi": "true"
+        }
+    },
+    {
+        "name": "Green Pepper",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["North Indian","Pizza","Chinese"],
+        "rating": 3.1,
+        "noOfRatings": "25",
+        "votes": "121",
+        "costForTwo": 150,
+        "minCost": "100",
+        "waitingTime": "30",
+        "payment": {
+            "card": "true",
+            "cash": "false",
+            "upi": "true"
+        }
+    },
+    {
+        "name": "Karama Restaurant",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["Continental", "American", "Pizza", "Burger", "Cafe", "Sandwich"],
+        "rating": 3.2,
+        "noOfRatings": "25",
+        "votes": "241",
+        "costForTwo": 800,
+        "minCost": "500",
+        "waitingTime": "30",
+        "payment": {
+            "card": "true",
+            "cash": "true",
+            "upi": "true"
+        }
+    },
+    {
+        "name": "Imperial Restaurant ",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["Mithai", "Street Food", "Fast Food"],
+        "rating": 2.2,
+        "noOfRatings": "25",
+        "votes": "21",
+        "costForTwo": 350,
+        "minCost": "200",
+        "waitingTime": "30",
+        "payment": {
+            "card": "true",
+            "cash": "false",
+            "upi": "false"
+        }
+    },
+    {
+        "name": "Chai Days ",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["Finger Food", "Continental", "Chinese"],
+        "rating": 3.1,
+        "noOfRatings": "25",
+        "votes": "110",
+        "costForTwo": 200,
+        "minCost": "100",
+        "waitingTime": "30",
+        "payment": {
+            "card": "true",
+            "cash": "true",
+            "upi": "true"
+        }
+    },
+    {
+        "name": "Al-Bek ",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["Mughlai", "Kebab", "Biryani", "North Indian"],
+        "rating": 4.5,
+        "noOfRatings": "25",
+        "votes": "1210",
+        "costForTwo": 450,
+        "minCost": "300",
+        "waitingTime": "30",
+        "payment": {
+            "card": "true",
+            "cash": "false",
+            "upi": "true"
+        }
+    },
+    {
+        "name": "Momoz ",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["Chinese", "Momos", "Seafood"],
+        "rating": 3.3,
+        "noOfRatings": "25",
+        "votes": "21",
+        "costForTwo": 550,
+        "minCost": "300",
+        "waitingTime": "30",
+        "payment": {
+            "card": "true",
+            "cash": "true",
+            "upi": "true"
+        }
+    },
+    {
+        "name": "Biriyani Zone  ",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["Mithai", "Street Food","Biriyani" ],
+        "rating": 3.4,
+        "noOfRatings": "25",
+        "votes": "221",
+        "costForTwo": 250,
+        "minCost": "100",
+        "waitingTime": "30",
+        "payment": {
+            "card": "true",
+            "cash": "false",
+            "upi": "true"
+        }
+    },
+    {
+        "name": "Muthashy's",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chitku.ae%2Fad%2F4291031%2Fb3fdded986f88c7d-Tiffin-service.jpg&f=1&nofb=1",
+        "categories": ["South Indian", "Biryani", "Chinese", "North Indian"],
+        "rating": 1.3,
+        "noOfRatings": "25",
+        "votes": "11",
+        "costForTwo": 950,
+        "minCost": "600",
+        "waitingTime": "30",
+        "payment": {
+            "card": "false",
+            "cash": "true",
+            "upi": "false"
+        }
+    }
+    
+]

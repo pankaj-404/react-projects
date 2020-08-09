@@ -1,0 +1,333 @@
+[
+  {
+    "item": "Airpods Wireless Chargeing Dock",
+    "category": "Airpods",
+    "id": 1,
+    "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0183%2F5769%2Ffiles%2FAirPod-Charger-418_EDIT_2048x2048.jpg%3Fv%3D1562726288&f=1&nofb=1",
+    "price": "75",
+    "description": [
+      {
+        "line": "Clever and elegant — Designed to rest and charge by your bedside or at your work desk with ease; the Wireless Charging Dock will keep your AirPods safely stored in a familiar location, always within arm’s reach."
+      },
+      {
+        "line": "Crafted in beautifully finished anodised Aluminum, it is both a bespoke design statement, subtle enough to complement any environment even when not in use, and your guarantee for fully charged Airpods, always."
+      },
+      {
+        "line": "The Charging Dock features an anti-slip rubber base, preventing your AirPods from tumbling to the floor, and ships with a flat tangle free USB-C to USB-A cable in the box."
+      }
+    ],
+    "FAQ": [
+      {
+        "que": "Does this include the charging cable?",
+        "ans": "Yes. A USB-C to USB-A cable is included in the box. Or, if you’d prefer to BYO cable, the Wireless Charging Dock will work with any USB-C cable of your choosing."
+      },
+      {
+        "que": "Can I charge other things with this product?",
+        "ans": "Yes! You can charge any Qi compatible device with this wireless charger, in fact, it makes an awesome iPhone charger too. But we really just designed it for AirPods."
+      }
+    ]
+  },
+  {
+    "item": "Power Uno Wireless Charger",
+    "category": "charger",
+    "id": 2,
+    "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.oQ3x0byBHTLEtnBTZtGiAgHaDX%26pid%3DApi&f=1",
+    "price": "20.00",
+    "description": [
+      {
+        "line": "Featuring a scratch-resistant tempered glass surface and an anodised aluminium base, Power Uno is an elegant addition to your workspace that is designed to last. Raised just 5mm off your desk, the Power Uno blends seamlessly into any environment, with a minimal footprint."
+      },
+      {
+        "line": "Beyond its refined aesthetics, the charger boasts 15W of wireless Fast Charge, compatible with all Qi-enabled smartphones, and includes a custom designed, durable, flat USB-C cable devised to lay-low along your table surface."
+      }
+    ],
+    "FAQ": [
+      {
+        "que": "Is this charger compatible with my iPhone Case?",
+        "ans": "Yes. Uno will charge through cases of up to 6mm thickness so long as there are no internal metal/magnetic components embedded into the case."
+      },
+      {
+        "que": "Does this charger support Qi Fast Wireless Charging?",
+        "ans": "Yes. We always strive to use the best technology available, and our wireless charging products support the fastest wireless charging available (based on Apple iPhone limitations)."
+      }
+    ]
+  },
+  {
+    "item": "Apple Watch Dock",
+    "category": "watch",
+    "id": 3,
+    "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.x6gAeiZTnAtwhdlN9Qua3QHaEK%26pid%3DApi&f=1",
+    "price": "69.95",
+    "description": [
+      {
+        "line": "The Proper Apple Watch Dock is a simple and elegant companion for your Apple Watch, designed with premium materials. Charge at your bedside or dock at your desk."
+      },
+      {
+        "line": "Simply take the charging cable that came with your Apple Watch and feed it through the Watch Dock — Once the charging cable is in place, plug it in and you're ready to charge!"
+      },
+      {
+        "line": "We realised that we had a hook for our keys, a shelf for our wallet, and a stand for our phone, but nowhere to safely and securely rest and charge our Apple Watch. So we designed one."
+      }
+    ],
+    "FAQ": [
+      {
+        "que": "Does this include charging cables?",
+        "ans": "No. We design our products to be compatible with your existing standard Apple charging cables."
+      }
+    ]
+  },
+
+  {
+    "item": "iPad Connect Shell Case",
+    "category": "iPad Case",
+    "id": 4,
+    "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.If288b3gJc2on7x7zO3n4gAAAA%26pid%3DApi&f=1",
+    "price": "45",
+    "description": [
+      {
+        "line": "The Proper iPad Shell Case is slim, light weight, protective, and most importantly, your bridge into the Connect Series of iPad Mounts and Stands."
+      },
+      {
+        "line": "Work or play; the Connect Series allows you to use your iPad like never before."
+      }
+    ],
+    "FAQ": [
+      {
+        "que": "Is this compatible with all Connect Mounts & Stands?",
+        "ans": "Yes. Proper iPad Connect Cases mount to all Connect Mounts & Stands with a simple twist & click."
+      }
+    ]
+  },
+  {
+    "item": "Connect iPad (7th Gen) 10.2' Case Kit",
+    "category": "ipad Case",
+    "id": 5,
+    "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.2HzctBc6yrXDvVW4h-wftwHaFS%26pid%3DApi&f=1",
+    "price": "59.95",
+    "description": [
+      {
+        "line": "Designed for iPad (7th Gen) 10.2'; the Shell Case is slim, light weight, protective, and most importantly, your bridge into the Connect Series of iPad Mounts and Stands."
+      },
+      {
+        "line": "This kit includes an iPad Connect Shell Case, Shoulder Strap and Universal Accessory Adapter. Allowing you to protect and mount your case, strap it to your person, and connect any peripheral securely to your case with the included adhesive adapter."
+      }
+    ],
+    "FAQ": null
+  },
+  {
+    "item": "Connect iPad Pro 11\" Case Kit",
+    "category": "Shell Case",
+    "id": 6,
+    "img": "https://cdn.shopify.com/s/files/1/0173/8828/products/190708_Studio-1100_3000x2000_75691d86-3f15-4cbb-92f9-8eb050680d70_1000x.jpg?v=1570067968",
+    "price": "79.95",
+    "description": [
+      {
+        "line": "Designed for iPad Pro 11\"; the Shell Case is slim, light weight, protective, and most importantly, your bridge into the Connect Series of iPad Mounts and Stands."
+      },
+      {
+        "line": "This kit includes an iPad Connect Shell Case, Shoulder Strap and Universal Accessory Adapter. Allowing you to protect and mount your case, strap it to your person, and connect any peripheral securely to your case with the included adhesive adapter."
+      }
+    ],
+    "FAQ": null
+  },
+
+  {
+    "item": "Leather iPhone Case",
+    "category": "iPhone Case",
+    "id": 7,
+    "img": "https://cdn.shopify.com/s/files/1/0173/8828/products/film__0000s_000216420013_400x400.jpg?v=1552541188",
+    "price": "20",
+    "description": [
+      {
+        "line": "Fitting snuggly around the curvatures of your iPhone, our new leather cases are designed to add protection without bulk — Made from specially sourced, high quality, genuine Nappa leather, this case feels soft to the touch, and develops a natural patina over time. Side buttons are detailed out of machined aluminium, matching the finish of your leather case, while a microfibre lining inside helps protect your iPhone from scratches. With full support for wireless charging, Proper leather cases are built to stand the test of time."
+      }
+    ],
+    "FAQ": null
+  },
+  {
+    "item": "Wireless Charging Dock for Apple Airpods",
+    "category": "charger",
+    "id": 8,
+    "img": "https://cdn.shopify.com/s/files/1/0173/8828/products/01_Studio-581_3000x2000_b1261bc0-2121-4ee5-ace8-397ba4b55b35_400x400.jpg?v=1563406511",
+    "price": "79.95",
+    "description": [
+      {
+        "line": "Clever and elegant — Designed to rest and charge by your bedside or at your work desk with ease; the Wireless Charging Dock will keep your AirPods safely stored in a familiar location, always within arm’s reach."
+      },
+      {
+        "line": "Crafted in beautifully finished anodised Aluminum, it is both a bespoke design statement, subtle enough to complement any environment even when not in use, and your guarantee for fully charged Airpods, always."
+      }
+    ],
+    "FAQ": [
+      {
+        "que": "Does this include the charging cable?",
+        "ans": "Yes. A USB-C to USB-A cable is included in the box. Or, if you’d prefer to BYO cable, the Wireless Charging Dock will work with any USB-C cable of your choosing."
+      }
+    ]
+  },
+  {
+    "item": "Power Uno Wireless Charger",
+    "category": "charger",
+    "id": 9,
+    "img": "https://cdn.shopify.com/s/files/1/0173/8828/products/DSC4001_3000x2000_fc6125ea-4e91-44a5-bc75-7c17c57f5ee7_400x400.jpg?v=1564636248",
+    "price": "20.95",
+    "description": [
+      {
+        "line": "Featuring a scratch-resistant tempered glass surface and an anodised aluminium base, Power Uno is an elegant addition to your workspace that is designed to last. Raised just 5mm off your desk, the Power Uno blends seamlessly into any environment, with a minimal footprint."
+      },
+      {
+        "line": "Beyond its refined aesthetics, the charger boasts 15W of wireless Fast Charge, compatible with all Qi-enabled smartphones, and includes a custom designed, durable, flat USB-C cable devised to lay-low along your table surface."
+      }
+    ],
+    "FAQ": [
+      {
+        "que": "Is this charger compatible with my iPhone Case?",
+        "ans": "Yes. Uno will charge through cases of up to 6mm thickness so long as there are no internal metal/magnetic components embedded into the case."
+      },
+      {
+        "que": "Does this charger support Qi Fast Wireless Charging?",
+        "ans": " Yes. We always strive to use the best technology available, and our wireless charging products support the fastest wireless charging available (based on Apple iPhone limitations)."
+      }
+    ]
+  },
+
+  {
+    "item": "Powered iPad Swivel Stand for iPad 10.2\" (7th Gen)",
+    "category": "iPad",
+    "id": 10,
+    "img": "https://cdn.shopify.com/s/files/1/0173/8828/products/0000s_0000_062A1295_efd8e0a5-cfdd-49b8-b57b-c3693bdb3a81_400x400.jpg?v=1570069605",
+    "price": "299.00",
+    "description": [
+      {
+        "line": "Versatile and ergonomic — The Proper iPad Swivel Stand is designed to seamlessly and securely mount and display your iPad. Combining 180° of swivel rotation for convenient customer interaction, and an ergonomically friendly 80° of angle adjustment; the Swivel Stand optimises the user experience of your iPad, and looks beautiful in every environment."
+      }
+    ],
+    "FAQ": [
+      {
+        "que": "Is this compatible with my device?",
+        "ans": "Our new flagship range of powered Business Solutions are currently only compatible with iPad 10.2\" (7th Gen)."
+      },
+      {
+        "que": "Does this include a Lightning cable?",
+        "ans": "Yes! This product includes an custom designed MFi certified Lightning cable that routes through the base of the stand and remains hidden."
+      }
+    ]
+  },
+  {
+    "item": "Powered iPad Stand for iPad 10.2\" (7th Gen)",
+    "category": "iPad",
+    "id": 11,
+    "img": "https://cdn.shopify.com/s/files/1/0173/8828/products/180503_Enterprise-27-small_46e142ca-8a43-4c7b-a142-ad65b18a3526_400x400.jpg?v=1570069587",
+    "price": "199.95",
+    "description": [
+      {
+        "line": "The new powered, secure, all in one stand solution for business.\n Secure and elegant — The Proper iPad Stand is designed to enhance the interior of every environment. Including a custom embedded MFi charging cable, for an always on, completely secure experience. The Proper iPad Stand conceals your cables, and keeps your iPad locked securely into place, while remaining powered at all times."
+      }
+    ],
+    "FAQ": null
+  },
+  {
+    "item": "Powered iPad Wall Mount for iPad 10.2\" (7th Gen)",
+    "category": "iPad",
+    "id": 12,
+    "img": "https://cdn.shopify.com/s/files/1/0173/8828/products/180615_EnterpriseiPadWallMount-12-small_b4365a3f-ce80-4e70-9153-80888ae3d8df_400x400.jpg?v=1570069618",
+    "price": "210.95",
+    "description": [
+      {
+        "line": "The new powered, secure, all in one iPad wall mount solution for business.\nSlim and sturdy— The Proper iPad Wall Mount is designed for ease of access and complete convenience. Including an embedded MFi charging cable, for an always on, completely secure experience."
+      }
+    ],
+    "FAQ": null
+  },
+  {
+    "item": "Secure iPhone Stand",
+    "category": "iPhone",
+    "id": 13,
+    "img": "https://cdn.shopify.com/s/files/1/0173/8828/products/SPEUPS1.621_400x400.png?v=1547794534",
+    "price": "69.00",
+    "description": [
+      {
+        "line": "The Secure iPhone Stand provides a home for iPhone and small tablet devices. Designed to provide an elegant experience and a tidy countertop. The Secure iPhone Stand has a tiny footprint, and features a retractable cord for when you need to extend the interaction ."
+      },
+      {
+        "line": "Securely fixed down to any countertop or wall with a specially considered adhesive (included), that won't damage your surfaces."
+      }
+    ],
+    "FAQ": [
+      {
+        "que": "Will this work with all phone and tablet devices?",
+        "ans": "Almost. As long as your device has a flat surface on the back for our adhesive (5x5cm) and there are no necessary cables or ports coming out form the back of the device."
+      },
+      {
+        "que": "Does this include a Lightning cable?",
+        "ans": "Yes! This product includes an custom designed MFi certified Lightning cable that routes through the base of the stand and remains hidden."
+      }
+    ]
+  },
+  {
+    "item": "Universal Tablet Stand",
+    "category": "tablet",
+    "id": 14,
+    "img": "https://cdn.shopify.com/s/files/1/0173/8828/products/SAMSUNG_TAB_A_-_10.1_-_Pivot_Stand_-_190827.314_400x400.png?v=1580179139",
+    "price": "79.00",
+    "description": [
+      {
+        "line": "The Universal Tablet stand is crafted from premium, aircraft grade Aluminium. A built in smooth hinge enables the perfect viewing angle, and seamless screen flipping for shared viewing. Connecting your tablet is achieved by a simple twist to lock and unlock motion."
+      }
+    ],
+    "FAQ": [
+      {
+        "que": "Does this require a Proper case?",
+        "ans": "No. All universal solutions ship with an included universal connect adapter, compatible with all tablet devices."
+      }
+    ]
+  },
+  {
+    "item": "Universal Tablet Car Headrest Mount",
+    "category": "tablet",
+    "id": 15,
+    "img": "https://cdn.shopify.com/s/files/1/0173/8828/products/SAMSUNG_TAB_A_-_10.1_-_Head_Rest_-_190827.322_400x400.png?v=1580178082",
+    "price": "69.95",
+    "description": [
+      {
+        "line": "Road trips sorted. The universal tablet Car Headrest Mount is designed to be the simplest addition of an in-car entertainment system. The extendable arm provides entertainment for the entire back seat, while allowing for the mount to be neatly tucked away when not in use."
+      }
+    ],
+    "FAQ": null
+  },
+  {
+    "item": "Powered iPad Wall Mount for iPad 10.2\" (7th Gen)",
+    "category": "iPad",
+    "id": 16,
+    "img": "https://cdn.shopify.com/s/files/1/0173/8828/products/SAMSUNG_TAB_A_-_10.1_-_Wall_Mount_-_190827.345_400x400.png?v=1580179305",
+    "price": "210.95",
+    "description": [
+      {
+        "line": "The new powered, secure, all in one iPad wall mount solution for business.\nSlim and sturdy— The Proper iPad Wall Mount is designed for ease of access and complete convenience. Including an embedded MFi charging cable, for an always on, completely secure experience."
+      }
+    ],
+    "FAQ": null
+  },
+  {
+    "item": "Universal Tablet Kick Stand",
+    "category": "tablet",
+    "id": 17,
+    "img": "https://cdn.shopify.com/s/files/1/0173/8828/products/SAMSUNG_TAB_A_-_10.1_-_Kick_Stand_-_190827.311_400x400.png?v=1580178714",
+    "price": "40.00",
+    "description": [
+      {
+        "line": "Beautifully crafted from aircraft grade Aluminium, then precision machined and hand formed to the ideal elevation and viewing angle. The Kick stand allows quick connection to any tablet with a simple 'turn & click'. Designed for both portrait and landscape use, the Kick is the ideal portable tablet stand."
+      }
+    ],
+    "FAQ": [
+      {
+        "que": "Will this work with all phone and tablet devices?",
+        "ans": "Almost. As long as your device has a flat surface on the back for our adhesive (5x5cm) and there are no necessary cables or ports coming out form the back of the device."
+      },
+      {
+        "que": "Does this include a Lightning cable?",
+        "ans": "Yes! This product includes an custom designed MFi certified Lightning cable that routes through the base of the stand and remains hidden."
+      }
+    ]
+  }
+]

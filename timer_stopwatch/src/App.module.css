@@ -1,0 +1,29 @@
+.App {
+  margin: 5%;
+  text-align: center;
+}
+
+button{
+  margin: 10px 20px;
+  background: rgb(69, 117, 7);
+  color: white;
+  padding: 10px 30px;
+  border-radius: 20px;
+}
+
+.start{
+  background: green;
+}
+
+.pause{
+  background: rgb(243, 175, 28);
+}
+
+.reset{
+  background: rgb(204, 45, 45);
+}
+
+input{
+  padding: 10px;
+  width: 20%;
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+</head>
+
+<body class="container text-center bg-dark " style="margin-top: 150px;">
+    <h1 class="text-danger display-3"> <b> STOP WATCH </b></h1>
+
+    <p id="displayTime" class="display-1 text-primary"></p>
+
+    <button class="btn-success rounded-circle p-2" onClick="myTimer = setInterval(myCounter, 1000)">Start</button>
+    <button class="btn-warning rounded-circle ml-2 p-2" onClick="clearInterval(myTimer)">Stop</button>
+    <button class="btn-danger rounded-circle ml-2 p-2" id="reset">Reset</button>
+
+    <script>
+        var counter = 0;
+        function myCounter() {
+            ++counter
+            if (counter < 60) {
+                document.getElementById("displayTime").innerHTML = `${counter % 60}<small class="text-muted ">s</small>`;
+            } 
+            if (counter >= 60 && counter < 3600) {
+                document.getElementById("displayTime").innerHTML = `${Math.floor(counter / 60)}<small class="text-muted ">m </small>${(counter % 60)}<small class="text-muted ">s </small>`;
+            } 
+            if (counter >= 3600) {
+                document.getElementById("displayTime").innerHTML = `${Math.floor(counter / 3600)}<small class="text-muted ">h </small>${Math.floor(counter / 60)}<small class="text-muted ">m </small>${(counter % 60)} <span class = "text-muted ">s</span>`;
+            }
+        }
+
+
+        document.getElementById("reset").addEventListener("click", reset)
+
+        function reset() {
+            clearInterval(myTimer)
+            document.getElementById("displayTime").innerHTML = "";
+            counter = 0
+        }
+    </script>
+</body>
+
+</html>

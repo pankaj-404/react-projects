@@ -1,0 +1,22 @@
+.grid {
+  display: grid;
+  grid-template-columns: auto auto;
+  margin-top: 20px;
+}
+
+body{
+  margin: 20px 10px;
+}
+
+.btn{
+  padding: 10px 20px;
+  background-color: green;
+  color: white;
+  margin:0 5px; 
+  font-size:20px;
+  border-radius: 30px;
+}
+
+.flex{
+  display: flex;
+}
