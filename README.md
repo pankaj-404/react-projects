@@ -57,7 +57,7 @@ npm install npm@latest -g
  
 1. Clone the repo
 ```sh
-git clone https://github.com/ray2294/onefinestay.git
+git clone https://github.com/.....git
 ```
 2. Go inside folder(parallel to package.json) and then install NPM packages
 ```sh
