@@ -24,9 +24,11 @@
 	The application is built with :
 	* [Axios](https://github.com/axios/axios)
 	* [API](https://www.thecocktaildb.com/api.php)
-
-<br><img src="./reactAppScreenshots/cocktailhub-entityPage.png" width="350px" align="left"/>
-<img src="./reactAppScreenshots/cocktailhub-landingPage.png" width="350px" align="right"/><br>
+	
+<p align="center">
+<img src="./reactAppScreenshots/cocktailhub-entityPage.png" width="380px"/>
+<img src="./reactAppScreenshots/cocktailhub-landingPage.png" width="380px" /></p>
+	
 	
 * ### [Food For Thought](https://foodforthought.now.sh/)
 	This web application houses a ton of paginated quotes, which a user can surf through. It is also capable of fetching quotes randomly, if user chooses so.  The code can found <a href="https://github.com/pankaj-404/react-projects/tree/master/foodforthought">here</a>.<br>
